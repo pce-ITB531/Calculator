@@ -1,6 +1,7 @@
 # Calculator
 
 To run this code one needs to start express server by using command: 
+
 ```node index.js```
 
 The server runs on 5000 port
